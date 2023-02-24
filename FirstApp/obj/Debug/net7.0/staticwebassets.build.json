@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0R4EUN414SMCSwsqqSvcoIv9Xig/TiDYKtivJS+mrOk=",
+  "Hash": "Fs2earN/U/450HPpXdR/5XqX2ip++DNnG81Q5+3/28A=",
   "Source": "FirstApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -491,6 +491,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/gitpod/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/lib/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll"
+    },
+    {
+      "Identity": "/workspace/Bootstrapnew/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "SourceId": "FirstApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/workspace/Bootstrapnew/FirstApp/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/home/gitpod/.nuget/packages/microsoft.extensions.http/7.0.0/lib/net7.0/Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "/workspace/Bootstrapnew/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
@@ -6679,6 +6696,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/workspace/Bootstrapnew/FirstApp/bin/Debug/net7.0/wwwroot/_framework/System.Linq.dll"
+    },
+    {
+      "Identity": "/workspace/Bootstrapnew/FirstApp/obj/Debug/net7.0/build-gz/xV7dP+w3.gz",
+      "SourceId": "FirstApp",
+      "SourceType": "Computed",
+      "ContentRoot": "/workspace/Bootstrapnew/FirstApp/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/workspace/Bootstrapnew/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/workspace/Bootstrapnew/FirstApp/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "/workspace/Bootstrapnew/FirstApp/obj/Debug/net7.0/build-gz/y6QHqQQ3.gz",
